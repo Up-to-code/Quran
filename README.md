@@ -1,3 +1,3 @@
 # Quran-ensite-code
 # URL
-https://ensite-code.github.io/Quran-ensite-code/
+url("https://ensite-code.github.io/Quran/")
